@@ -1,0 +1,9 @@
+dictionaries/*
+rawdata/*
+testdata/*
+venv/*
+results/*
+logs/*
+*.pyc
+extracted/*
+config.json
